@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="human" class="org.lee.teddy.Human"/>
+    <bean id="teddy" class="org.lee.teddy.Human">
+        <constructor-arg value="Teddy" />
+    </bean>
+    <bean id="teddyControl" class="org.lee.teddy.HumanControl">
+        <constructor-arg ref="teddy" />
+    </bean>
+
+    <bean id="robot" class="org.lee.teddy.HumanControl">
+        <constructor-arg ref="human" />
+    </bean>
+</beans>
