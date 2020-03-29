@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/batch http://www.springframework.org/schema/batch/spring-batch.xsd">
+
+    <job id="importProducts" xmlns="http://www.springframework.org/schema/batch">
+        <step id="readWriteHuman">
+            <tasklet>
+                <chunk reader="reader" writer="writer" commit-interval="2" skip-limit="1">
+                    <skippable-exception-classes>
+                        <include class="org.springframework.batch.item.file.FlatFileParseException"/>
+                    </skippable-exception-classes>
+                </chunk>
+            </tasklet>
+        </step>
+    </job>
+
+    <bean id="reader" class="org.springframework.batch.item.file.FlatFileItemReader" scope="step">
+        <property name="resource" value="file:#{jobParameters['inputFile']}"/>
+        <property name="linesToSkip" value="1"/>
+        <property name="lineMapper">
+            <bean class="org.springframework.batch.item.file.mapping.DefaultLineMapper">
+                <property name="lineTokenizer">
+                    <bean class="org.springframework.batch.item.file.transform.DelimitedLineTokenizer">
+                        <property name="names" value="Name, Born Year, Born Month, Height"/>
+                    </bean>
+                </property>
+                <property name="fieldSetMapper">
+                    <bean class="HumanFieldSetMapper"/>
+                </property>
+            </bean>
+        </property>
+    </bean>
+
+    <bean id="writer" class="HumanJDBCWriter">
+        <constructor-arg ref="dataSource"/>
+    </bean>
+</beans>
