@@ -2,7 +2,7 @@
 
 - Fixture Setup Patterns
   - [In-line Setup](2020/04/20200401_In-line_Setup/test_knight.py)
-  - Delegated Setup
+  - [Delegated Setup](2020/04/20200402_Delegated_Setup/test_knight.py)
   - Creation Method
   - Implicit Setup
   - Prebuilt Fixture
