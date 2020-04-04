@@ -10,7 +10,8 @@
     - Named State Reaching Method
     - Attachment Method
     - Test Reused for Fixture Setup
-  - Implicit Setup
+  - [Implicit Setup](2020/04/20200404_Implicit_Setup/test_knight.py)
+    - Aslo known as: Hooked Setup, Framework-Invoked Setup, Shared Setup Method
   - Prebuilt Fixture
   - Lazy Setup
   - Suite Fixture Setup
