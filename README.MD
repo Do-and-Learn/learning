@@ -13,6 +13,7 @@
   - [Implicit Setup](2020/04/20200404_Implicit_Setup/test_knight.py)
     - Aslo known as: Hooked Setup, Framework-Invoked Setup, Shared Setup Method
   - Prebuilt Fixture
+    - Global Fixture
   - Lazy Setup
   - Suite Fixture Setup
   - Setup Decorator
