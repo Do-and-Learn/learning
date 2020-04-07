@@ -14,7 +14,7 @@
     - Aslo known as: Hooked Setup, Framework-Invoked Setup, Shared Setup Method
   - Prebuilt Fixture
     - Global Fixture
-  - Lazy Setup
+  - [Lazy Setup](2020/04/20200407_Lazy Setup/test_knight.py)
   - Suite Fixture Setup
   - Setup Decorator
   - Chained Tests
