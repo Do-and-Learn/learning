@@ -15,6 +15,11 @@
   - Prebuilt Fixture
     - Global Fixture
   - [Lazy Setup](2020/04/20200407_Lazy_Setup/test_knight.py)
-  - [Suite Fixture Setup](2020\04\20200409_Suite_Fixture_Setup\test_knight.py)
+  - [Suite Fixture Setup](2020/04/20200409_Suite_Fixture_Setup/test_knight.py)
   - Setup Decorator
+    - Abstract Setup Decorator
+    - [Hard-Coded Setup Decorator](2020/04/20200410_Hard-Coded_Setup_Decorator/src/test/java/Main.java)
+    - Parameterized Setup Decorator
+    - Decorated Lazy Setup
+    - Pushdown Decorator
   - Chained Tests
