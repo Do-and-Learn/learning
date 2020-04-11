@@ -19,7 +19,7 @@
   - Setup Decorator
     - Abstract Setup Decorator
     - [Hard-Coded Setup Decorator](2020/04/20200410_Hard-Coded_Setup_Decorator/src/test/java/Main.java)
-    - Parameterized Setup Decorator
+    - [Parameterized Setup Decorator](2020/04/20200411_Parameterized_Setup_Decorator/src/test/java/Main.java)
     - Decorated Lazy Setup
     - Pushdown Decorator
   - Chained Tests
