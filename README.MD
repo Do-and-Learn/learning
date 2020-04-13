@@ -23,4 +23,4 @@
     - [Abstract Decorator Class](2020/04/20200412_Abstract_Decorator_Class/src/test/java/Main.java)
     - Decorated Lazy Setup
     - Pushdown Decorator
-  - Chained Tests
+  - [Chained Tests](2020/04/20200413_Chained_Tests/src/test/java/KnightTest.java)
