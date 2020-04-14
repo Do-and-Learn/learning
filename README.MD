@@ -1,5 +1,16 @@
 # XUnit Patterns
 
+- Test Strategy Patterns
+  - Recorded Test
+  - Scripted Test
+  - Data-Driven Test
+  - Test Automation Framework
+  - Minimal Fixture
+  - Standard Fixture
+  - Fresh Fixture
+  - Shared Fixture
+  - Back Door Manipulation
+  - Layer Test
 - Fixture Setup Patterns
   - [In-line Setup](2020/04/20200401_In-line_Setup/test_knight.py)
   - [Delegated Setup](2020/04/20200402_Delegated_Setup/test_knight.py)
@@ -24,3 +35,14 @@
     - Decorated Lazy Setup
     - Pushdown Decorator
   - [Chained Tests](2020/04/20200413_Chained_Tests/src/test/java/KnightTest.java)
+- Result Verification Patterns
+  - State Verification
+    - Aslo known as: State-Based Verification
+    - [Procedural State Verification](2020/04/20200414_Procedural_State_Verification/src/test/java/KnightTest.java)
+    - Expected State Specification
+      - Also known as: Expected Object
+  - Behavior Verification
+  - Custom Assertion
+  - Delta Assertion
+  - Guard Assertion
+  - Unfinished Test Assertion
