@@ -39,7 +39,7 @@
   - State Verification
     - Aslo known as: State-Based Verification
     - [Procedural State Verification](2020/04/20200414_Procedural_State_Verification/src/test/java/KnightTest.java)
-    - Expected State Specification
+    - [Expected State Specification](2020/04/20200415_Expected_Object/src/test/java/KnightTest.java)
       - Also known as: Expected Object
   - Behavior Verification
   - Custom Assertion
