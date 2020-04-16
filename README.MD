@@ -42,6 +42,9 @@
     - [Expected State Specification](2020/04/20200415_Expected_Object/src/test/java/KnightTest.java)
       - Also known as: Expected Object
   - Behavior Verification
+    - [Procedural Behavior Verification](2020/04/20200416_Procedural_Behavior_Verification/test_knight.py)
+      - Also known as: Expected Behavior
+    - Expected Behavior Specification
   - Custom Assertion
   - Delta Assertion
   - Guard Assertion
