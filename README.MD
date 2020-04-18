@@ -49,3 +49,13 @@
   - Delta Assertion
   - Guard Assertion
   - Unfinished Test Assertion
+
+# Python mock
+
+[Official Page](https://docs.python.org/3/library/unittest.mock.html)
+
+- [QuickGuide](2020/04/20200418_Python_Mock_Quick_Guide/quick_guide_test.py)
+- Mock Class
+- Patchers
+- MagicMock
+- Helpers
