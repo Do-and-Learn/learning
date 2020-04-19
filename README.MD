@@ -56,6 +56,18 @@
 
 - [QuickGuide](2020/04/20200418_Python_Mock_Quick_Guide/quick_guide_test.py)
 - Mock Class
+  - Classes
+    - Mock
+      - [Assertions](2020/04/20200419_Python_Mock_assertions/mock_class_test.py)
+    - MagicMock
+    - NonCallableMock
+    - NonCallableMagicMock
+    - PropertyMock
+    - AsyncMock
+  - Calling
+  - Deleting Attributes
+  - Mock names and the name attribute
+  - Attaching Mocks as Attributes
 - Patchers
 - MagicMock
 - Helpers
