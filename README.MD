@@ -59,6 +59,7 @@
   - Classes
     - Mock
       - [Assertions](2020/04/20200419_Python_Mock_assertions/mock_class_test.py)
+      - [Methods](2020/04/20200421_Python_Mock_methods/mock_test.py)
     - MagicMock
     - NonCallableMock
     - NonCallableMagicMock
