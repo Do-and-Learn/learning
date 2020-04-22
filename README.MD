@@ -1,39 +1,39 @@
 # XUnit Patterns
 
 - Test Strategy Patterns
-  - Recorded Test
-  - Scripted Test
-  - Data-Driven Test
-  - Test Automation Framework
-  - Minimal Fixture
-  - Standard Fixture
-  - Fresh Fixture
-  - Shared Fixture
-  - Back Door Manipulation
-  - Layer Test
+  - :construction: Recorded Test
+  - :construction: Scripted Test
+  - :construction: Data-Driven Test
+  - :construction: Test Automation Framework
+  - :construction: Minimal Fixture
+  - :construction: Standard Fixture
+  - :construction: Fresh Fixture
+  - :construction: Shared Fixture
+  - :construction: Back Door Manipulation
+  - :construction: Layer Test
 - Fixture Setup Patterns
   - [In-line Setup](2020/04/20200401_In-line_Setup/test_knight.py)
   - [Delegated Setup](2020/04/20200402_Delegated_Setup/test_knight.py)
   - Creation Method
     - [Parameterized Creation Method](2020/04/20200403_Creation_Method/test_knight_parameterized_creation_method.py)
     - [Anonymous Creation Method](2020/04/20200403_Creation_Method/test_knight_anonymous_creation_method.py)
-    - Parameterized Anonymous Creation Method
-    - Named State Reaching Method
-    - Attachment Method
-    - Test Reused for Fixture Setup
+    - :construction: Parameterized Anonymous Creation Method
+    - :construction: Named State Reaching Method
+    - :construction: Attachment Method
+    - :construction: Test Reused for Fixture Setup
   - [Implicit Setup](2020/04/20200404_Implicit_Setup/test_knight.py)
     - Aslo known as: Hooked Setup, Framework-Invoked Setup, Shared Setup Method
-  - Prebuilt Fixture
+  - :construction: Prebuilt Fixture
     - Global Fixture
   - [Lazy Setup](2020/04/20200407_Lazy_Setup/test_knight.py)
   - [Suite Fixture Setup](2020/04/20200409_Suite_Fixture_Setup/test_knight.py)
   - Setup Decorator
-    - Abstract Setup Decorator
+    - :construction: Abstract Setup Decorator
     - [Hard-Coded Setup Decorator](2020/04/20200410_Hard-Coded_Setup_Decorator/src/test/java/Main.java)
     - [Parameterized Setup Decorator](2020/04/20200411_Parameterized_Setup_Decorator/src/test/java/Main.java)
     - [Abstract Decorator Class](2020/04/20200412_Abstract_Decorator_Class/src/test/java/Main.java)
-    - Decorated Lazy Setup
-    - Pushdown Decorator
+    - :construction: Decorated Lazy Setup
+    - :construction: Pushdown Decorator
   - [Chained Tests](2020/04/20200413_Chained_Tests/src/test/java/KnightTest.java)
 - Result Verification Patterns
   - State Verification
@@ -44,11 +44,11 @@
   - Behavior Verification
     - [Procedural Behavior Verification](2020/04/20200416_Procedural_Behavior_Verification/test_knight.py)
       - Also known as: Expected Behavior
-    - Expected Behavior Specification
-  - Custom Assertion
-  - Delta Assertion
-  - Guard Assertion
-  - Unfinished Test Assertion
+    - :construction: Expected Behavior Specification
+  - :construction: Custom Assertion
+  - :construction: Delta Assertion
+  - :construction: Guard Assertion
+  - :construction: Unfinished Test Assertion
 
 # Python mock
 
@@ -60,15 +60,14 @@
     - Mock
       - [Assertions](2020/04/20200419_Python_Mock_assertions/mock_class_test.py)
       - [Methods](2020/04/20200421_Python_Mock_methods/mock_test.py)
-    - MagicMock
-    - NonCallableMock
-    - NonCallableMagicMock
-    - PropertyMock
-    - AsyncMock
-  - Calling
-  - Deleting Attributes
-  - Mock names and the name attribute
-  - Attaching Mocks as Attributes
-- Patchers
-- MagicMock
-- Helpers
+    - :construction: MagicMock
+    - :construction: NonCallableMock
+    - :construction: PropertyMock
+    - :construction: AsyncMock
+  - [Calling](2020/04/20200422_Calling/calling_test.py)
+  - :construction: Deleting Attributes
+  - :construction: Mock names and the name attribute
+  - :construction: Attaching Mocks as Attributes*
+- :construction: Patchers
+- :construction: MagicMock
+- :construction: Helpers
