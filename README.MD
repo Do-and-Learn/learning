@@ -65,7 +65,7 @@
     - :construction: PropertyMock
     - :construction: AsyncMock
   - [Calling](2020/04/20200422_Calling/calling_test.py)
-  - :construction: Deleting Attributes
+  - [Deleting Attributes](2020/04/20200423_Deleting_Attributes/deleting_attributes_test.py)
   - :construction: Mock names and the name attribute
   - :construction: Attaching Mocks as Attributes*
 - :construction: Patchers
