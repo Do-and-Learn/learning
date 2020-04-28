@@ -3,11 +3,11 @@
 [Link](https://docs.python.org/3/library/textwrap.html)
 
 - :construction: class TextWrapper
-- [wrap](2020/04/20200427/wrap_test.py)
-- :construction: fill
-- :construction: shorten
-- :construction: dedent
-- :construction: indent
+- [wrap](2020/04/20200427_wrap/wrap_test.py)
+- [fill](2020/04/20200428_textwrap_2/fill_test.py)
+- [shorten](2020/04/20200428_textwrap_2/shorten_test.py)
+- [dedent](2020/04/20200428_textwrap_2/dedent_test.py)
+- [indent](2020/04/20200428_textwrap_2/indent_test.py)
 
 # Python mock
 
