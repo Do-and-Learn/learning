@@ -1,6 +1,25 @@
-# textwrap — Text wrapping and filling
+# The Python Standard Library
 
-[Link](https://docs.python.org/3/library/textwrap.html)
+## [Text Processing Services](https://docs.python.org/3/library/text.html)
+
+### string - Common string operations
+
+### [re](https://docs.python.org/3/library/re.html) - Regular expression operations
+
+- [Checking for a Pair](2020/04/20200429_checking_for_a_pair/checking_for_a_pair_test.py)
+- :construction: Simulating scanf()
+- :construction: search() vs. match()
+- :construction: Making a Phonebook
+- :construction: Text Munging
+- :construction: Finding all Adverbs
+- :construction: Finding all Adverbs and their Positions
+- :construction: Raw String Notation
+- :construction: Writing a Tokenizer
+- :construction: ...
+
+### difflib - Helpers for computing deltas
+
+### [textwrap](https://docs.python.org/3/library/textwrap.html) - Text wrapping and filling
 
 - :construction: class TextWrapper
 - [wrap](2020/04/20200427_wrap/wrap_test.py)
@@ -8,6 +27,14 @@
 - [shorten](2020/04/20200428_textwrap_2/shorten_test.py)
 - [dedent](2020/04/20200428_textwrap_2/dedent_test.py)
 - [indent](2020/04/20200428_textwrap_2/indent_test.py)
+
+### unicodedata - Unicode Database
+
+### stringprep - Internet String Preparation
+
+### readline - GNU readline interface
+
+### rlcompleter - Completion function for GNU readline
 
 # Python mock
 
