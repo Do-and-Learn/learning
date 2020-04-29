@@ -1,3 +1,7 @@
+# Topics
+
+- [Python](PYTHON.MD)
+
 # XUnit Patterns
 
 - Test Strategy Patterns
@@ -49,5 +53,3 @@
   - :construction: Delta Assertion
   - :construction: Guard Assertion
   - :construction: Unfinished Test Assertion
-
-[Python](python.md)
