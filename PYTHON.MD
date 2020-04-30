@@ -7,7 +7,7 @@
 ### [re](https://docs.python.org/3/library/re.html) - Regular expression operations
 
 - [Checking for a Pair](2020/04/20200429_checking_for_a_pair/checking_for_a_pair_test.py)
-- :construction: Simulating scanf()
+- [Simulating scanf()](2020/04/20200430_simulating_scanf/simulating_scanf_test.py)
 - :construction: search() vs. match()
 - :construction: Making a Phonebook
 - :construction: Text Munging
