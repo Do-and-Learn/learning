@@ -10,7 +10,7 @@
 - [Simulating scanf()](2020/04/20200430_simulating_scanf/simulating_scanf_test.py)
 - [search() vs. match()](2020/05/20200501_search_vs_match/search_vs_match_test.py)
 - [Making a Phonebook](2020/05/20200502_making_a_phonebook/making_a_phonebook_test.py)
-- :construction: Text Munging
+- [Text Munging](2020/05/20200503_text_munging/text_munging_test.py)
 - :construction: Finding all Adverbs
 - :construction: Finding all Adverbs and their Positions
 - :construction: Raw String Notation
