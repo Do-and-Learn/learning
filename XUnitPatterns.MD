@@ -1,0 +1,51 @@
+# XUnit Patterns
+
+- Test Strategy Patterns
+  - :construction: Recorded Test
+  - :construction: Scripted Test
+  - :construction: Data-Driven Test
+  - :construction: Test Automation Framework
+  - :construction: Minimal Fixture
+  - :construction: Standard Fixture
+  - :construction: Fresh Fixture
+  - :construction: Shared Fixture
+  - :construction: Back Door Manipulation
+  - :construction: Layer Test
+- Fixture Setup Patterns
+  - [In-line Setup](2020/04/20200401_In-line_Setup/test_knight.py)
+  - [Delegated Setup](2020/04/20200402_Delegated_Setup/test_knight.py)
+  - Creation Method
+    - [Parameterized Creation Method](2020/04/20200403_Creation_Method/test_knight_parameterized_creation_method.py)
+    - [Anonymous Creation Method](2020/04/20200403_Creation_Method/test_knight_anonymous_creation_method.py)
+    - :construction: Parameterized Anonymous Creation Method
+    - :construction: Named State Reaching Method
+    - :construction: Attachment Method
+    - :construction: Test Reused for Fixture Setup
+  - [Implicit Setup](2020/04/20200404_Implicit_Setup/test_knight.py)
+    - Aslo known as: Hooked Setup, Framework-Invoked Setup, Shared Setup Method
+  - :construction: Prebuilt Fixture
+    - Global Fixture
+  - [Lazy Setup](2020/04/20200407_Lazy_Setup/test_knight.py)
+  - [Suite Fixture Setup](2020/04/20200409_Suite_Fixture_Setup/test_knight.py)
+  - Setup Decorator
+    - :construction: Abstract Setup Decorator
+    - [Hard-Coded Setup Decorator](2020/04/20200410_Hard-Coded_Setup_Decorator/src/test/java/Main.java)
+    - [Parameterized Setup Decorator](2020/04/20200411_Parameterized_Setup_Decorator/src/test/java/Main.java)
+    - [Abstract Decorator Class](2020/04/20200412_Abstract_Decorator_Class/src/test/java/Main.java)
+    - :construction: Decorated Lazy Setup
+    - :construction: Pushdown Decorator
+  - [Chained Tests](2020/04/20200413_Chained_Tests/src/test/java/KnightTest.java)
+- Result Verification Patterns
+  - State Verification
+    - Aslo known as: State-Based Verification
+    - [Procedural State Verification](2020/04/20200414_Procedural_State_Verification/src/test/java/KnightTest.java)
+    - [Expected State Specification](2020/04/20200415_Expected_Object/src/test/java/KnightTest.java)
+      - Also known as: Expected Object
+  - Behavior Verification
+    - [Procedural Behavior Verification](2020/04/20200416_Procedural_Behavior_Verification/test_knight.py)
+      - Also known as: Expected Behavior
+    - :construction: Expected Behavior Specification
+  - :construction: Custom Assertion
+  - :construction: Delta Assertion
+  - :construction: Guard Assertion
+  - :construction: Unfinished Test Assertion

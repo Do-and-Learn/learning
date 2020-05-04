@@ -11,7 +11,7 @@
 - [search() vs. match()](2020/05/20200501_search_vs_match/search_vs_match_test.py)
 - [Making a Phonebook](2020/05/20200502_making_a_phonebook/making_a_phonebook_test.py)
 - [Text Munging](2020/05/20200503_text_munging/text_munging_test.py)
-- :construction: Finding all Adverbs
+- [Finding all Adverbs](2020/05/20200504_finding_all_adverbs/finding_all_adverbs_test.py)
 - :construction: Finding all Adverbs and their Positions
 - :construction: Raw String Notation
 - :construction: Writing a Tokenizer
