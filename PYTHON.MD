@@ -13,7 +13,7 @@
 - [Text Munging](2020/05/20200503_text_munging/text_munging_test.py)
 - [Finding all Adverbs](2020/05/20200504_finding_all_adverbs/finding_all_adverbs_test.py)
 - [Finding all Adverbs and their Positions](2020/05/20200506_finding_all_adverbs_and_their_positions/example_test.py)
-- :construction: Raw String Notation
+- [Raw String Notation](2020/05/20200507_raw_string_notation/example_test.py)
 - :construction: Writing a Tokenizer
 - :construction: ...
 
