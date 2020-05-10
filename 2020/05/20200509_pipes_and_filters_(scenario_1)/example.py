@@ -3,7 +3,7 @@ import contextlib
 import io
 
 
-class Reader(abc.ABC):
+class Writer(abc.ABC):
 
     @abc.abstractmethod
     def write(self, data: str):
@@ -15,11 +15,11 @@ class Pusher:
     def __init__(self):
         self.target = None
 
-    def set_target(self, target: Reader):
+    def set_target(self, target: Writer):
         self.target = target
 
 
-class FilterPusher(Pusher, Reader):
+class FilterPusher(Pusher, Writer):
 
     def write(self, data):
         data = self.process(data)
@@ -50,7 +50,7 @@ class Filter2(FilterPusher):
         return f'filter2({data})'
 
 
-class DataSink(Reader):
+class DataSink(Writer):
 
     def write(self, data: str):
         print(f'Receive: {data}')
