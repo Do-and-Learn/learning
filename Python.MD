@@ -2,75 +2,22 @@
 
 ## [Built-in Functions](https://docs.python.org/3/library/functions.html)
 
-- abs()
-- [all()](2020/05/20200511_all/all_test.py)
-- delattr()
-- hash()
-- memoryview()
-- set()
-- dict()
-- help()
-- min()
-- setattr()
-- any()
-- dir()
-- hex()
-- next()
-- slice()
-- ascii()
-- divmod()
-- id()
-- object()
-- sorted()
-- bin()
-- enumerate()
-- input()
-- oct()
-- staticmethod()
-- bool()
-- eval()
-- int()
-- open()
-- str()
-- breakpoint()
-- exec()
-- isinstance()
-- ord()
-- sum()
-- bytearray()
-- filter()
-- issubclass()
-- pow()
-- super()
-- bytes()
-- float()
-- iter()
-- print()
-- tuple()
-- callable()
-- format()
-- len()
-- property()
-- type()
-- chr()
-- frozenset()
-- list()
-- range()
-- vars()
-- classmethod()
-- getattr()
-- locals()
-- repr()
-- zip()
-- compile()
-- globals()
-- map()
-- reversed()
-- __import__()
-- complex()
-- hasattr()
-- max()
-- round()
+|  |  |  |  |  |
+|:-|:-|:-|:-|:-|
+| [abs()](2020/05/20200512_builtin_2/abs_test.py) | delattr() | hash() | memoryview() | set() |
+| [all()](2020/05/20200511_builtin_1/all_test.py) | dict() | help() | min() | setattr() |
+| any() | dir() | hex() | next() | slice() |
+| ascii() | divmod() | id() | object() | sorted() |
+| bin() | enumerate() | input() | oct() | staticmethod() |
+| bool() | eval() | int() | open() | str() |
+| breakpoint() | exec() | isinstance() | ord() | sum() |
+| bytearray() | filter()  | issubclass() | pow() | super() |
+| bytes() | float() | iter() | print() | tuple() |
+| callable() | format() | len() | property() | type() |
+| chr() | frozenset() | list() | range() | vars() |
+| classmethod() | getattr() | locals() | repr() | zip() |
+| compile() | globals() | map() | reversed() | __import__() |
+| complex() | hasattr() | max() | round() |
 
 ## [Text Processing Services](https://docs.python.org/3/library/text.html)
 
