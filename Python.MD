@@ -6,7 +6,7 @@
 |:-|:-|:-|:-|:-|
 | [abs()](2020/05/20200512_builtin_2/abs_test.py) | delattr() | hash() | memoryview() | set() |
 | [all()](2020/05/20200511_builtin_1/all_test.py) | dict() | help() | min() | setattr() |
-| any() | dir() | hex() | next() | slice() |
+| [any()](2020/05/20200513_builtin_3/any_test.py) | dir() | hex() | next() | slice() |
 | ascii() | divmod() | id() | object() | sorted() |
 | bin() | enumerate() | input() | oct() | staticmethod() |
 | bool() | eval() | int() | open() | str() |
