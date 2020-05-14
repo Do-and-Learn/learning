@@ -3,20 +3,20 @@
 ## [Built-in Functions](https://docs.python.org/3/library/functions.html)
 
 |  |  |  |  |  |
-|:-|:-|:-|:-|:-|
+| -- | -- | -- | -- | -- |
 | [abs()](2020/05/20200512_builtin_2/abs_test.py) | delattr() | hash() | memoryview() | set() |
 | [all()](2020/05/20200511_builtin_1/all_test.py) | dict() | help() | min() | setattr() |
 | [any()](2020/05/20200513_builtin_3/any_test.py) | dir() | hex() | next() | slice() |
-| ascii() | divmod() | id() | object() | sorted() |
-| bin() | enumerate() | input() | oct() | staticmethod() |
-| bool() | eval() | int() | open() | str() |
+| [ascii()](2020/05/20200514_builtin_4/ascii_test.py) | divmod() | id() | object() | sorted() |
+| [bin()](2020/05/20200514_builtin_4/bin_test.py) | enumerate() | input() | oct() | staticmethod() |
+| [bool()](2020/05/20200514_builtin_4/bool_test.py) | eval() | int() | open() | str() |
 | breakpoint() | exec() | isinstance() | ord() | sum() |
 | bytearray() | filter()  | issubclass() | pow() | super() |
 | bytes() | float() | iter() | print() | tuple() |
 | callable() | format() | len() | property() | type() |
 | chr() | frozenset() | list() | range() | vars() |
 | classmethod() | getattr() | locals() | repr() | zip() |
-| compile() | globals() | map() | reversed() | __import__() |
+| compile() | globals() | map() | reversed() | \_\_import\_\_() |
 | complex() | hasattr() | max() | round() |
 
 ## [Text Processing Services](https://docs.python.org/3/library/text.html)
