@@ -13,7 +13,7 @@
 | breakpoint() | exec() | isinstance() | ord() | sum() |
 | bytearray() | filter()  | issubclass() | pow() | super() |
 | bytes() | float() | iter() | print() | tuple() |
-| callable() | format() | len() | property() | type() |
+| [callable()](2020/05/20200515_builtin_5/callable_test.py) | format() | len() | property() | type() |
 | chr() | frozenset() | list() | range() | vars() |
 | classmethod() | getattr() | locals() | repr() | zip() |
 | compile() | globals() | map() | reversed() | \_\_import\_\_() |
