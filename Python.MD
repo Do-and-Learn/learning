@@ -14,7 +14,7 @@
 | bytearray() | filter()  | issubclass() | pow() | super() |
 | bytes() | float() | iter() | print() | tuple() |
 | [callable()](2020/05/20200515_builtin_5/callable_test.py) | format() | len() | property() | type() |
-| chr() | frozenset() | list() | range() | vars() |
+| [chr()](2020/05/20200516_builtin_6/chr_test.py) | frozenset() | list() | range() | vars() |
 | classmethod() | getattr() | locals() | repr() | zip() |
 | compile() | globals() | map() | reversed() | \_\_import\_\_() |
 | complex() | hasattr() | max() | round() |
