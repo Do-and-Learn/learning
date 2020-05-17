@@ -7,7 +7,7 @@
 | [abs()](2020/05/20200512_builtin_2/abs_test.py) | delattr() | hash() | memoryview() | set() |
 | [all()](2020/05/20200511_builtin_1/all_test.py) | dict() | help() | min() | setattr() |
 | [any()](2020/05/20200513_builtin_3/any_test.py) | dir() | hex() | next() | slice() |
-| [ascii()](2020/05/20200514_builtin_4/ascii_test.py) | divmod() | id() | object() | sorted() |
+| [ascii()](2020/05/20200514_builtin_4/ascii_test.py) | [divmod()](2020/05/20200517_builtin_7/divmod_test.py) | id() | object() | sorted() |
 | [bin()](2020/05/20200514_builtin_4/bin_test.py) | enumerate() | input() | oct() | staticmethod() |
 | [bool()](2020/05/20200514_builtin_4/bool_test.py) | eval() | int() | open() | str() |
 | breakpoint() | exec() | isinstance() | ord() | sum() |
