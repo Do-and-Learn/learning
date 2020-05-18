@@ -2,22 +2,106 @@
 
 ## [Built-in Functions](https://docs.python.org/3/library/functions.html)
 
-|  |  |  |  |  |
-| -- | -- | -- | -- | -- |
-| [abs()](2020/05/20200512_builtin_2/abs_test.py) | delattr() | hash() | memoryview() | set() |
-| [all()](2020/05/20200511_builtin_1/all_test.py) | dict() | help() | min() | setattr() |
-| [any()](2020/05/20200513_builtin_3/any_test.py) | dir() | hex() | next() | slice() |
-| [ascii()](2020/05/20200514_builtin_4/ascii_test.py) | [divmod()](2020/05/20200517_builtin_7/divmod_test.py) | id() | object() | sorted() |
-| [bin()](2020/05/20200514_builtin_4/bin_test.py) | enumerate() | input() | oct() | staticmethod() |
-| [bool()](2020/05/20200514_builtin_4/bool_test.py) | eval() | int() | open() | str() |
-| breakpoint() | exec() | isinstance() | ord() | sum() |
-| bytearray() | filter()  | issubclass() | pow() | super() |
-| bytes() | float() | iter() | print() | tuple() |
-| [callable()](2020/05/20200515_builtin_5/callable_test.py) | format() | len() | property() | type() |
-| [chr()](2020/05/20200516_builtin_6/chr_test.py) | frozenset() | list() | range() | vars() |
-| classmethod() | getattr() | locals() | repr() | zip() |
-| compile() | globals() | map() | reversed() | \_\_import\_\_() |
-| complex() | hasattr() | max() | round() |
+<table>
+<tr>
+    <td><a href="2020/05/20200512_builtin_2/abs_test.py">abs()</a></td>
+    <td>delattr()</td>
+    <td>hash()</td>
+    <td>memoryview()</td>
+    <td>set()</td>
+</tr>
+<tr>
+    <td><a href="2020/05/20200511_builtin_1/all_test.py">all()</a></td>
+    <td>dict()</td>
+    <td>help()</td>
+    <td>min()</td>
+    <td>setattr()</td>
+</tr>
+<tr>
+    <td><a href="2020/05/20200513_builtin_3/any_test.py">any()</a></td>
+    <td>dir()</td>
+    <td>hex()</td>
+    <td>next()</td>
+    <td>slice()</td>
+</tr>
+<tr>
+    <td><a href="2020/05/20200514_builtin_4/ascii_test.py">ascii()</a></td>
+    <td><a href="2020/05/20200517_builtin_7/divmod_test.py">divmod()</a></td>
+    <td>id()</td>
+    <td>object()</td>
+    <td>sorted()</td>
+</tr>
+<tr>
+    <td><a href="2020/05/20200514_builtin_4/bin_test.py">bin()</a></td>
+    <td>enumerate()</td>
+    <td>input()</td>
+    <td>oct()</td>
+    <td>staticmethod()</td>
+</tr>
+<tr>
+    <td><a href="2020/05/20200514_builtin_4/bool_test.py">bool()</a></td>
+    <td>eval()</td>
+    <td>int()</td>
+    <td>open()</td>
+    <td>str()</td>
+</tr>
+<tr>
+    <td>breakpoint()</td>
+    <td>exec()</td>
+    <td>isinstance()</td>
+    <td>ord()</td>
+    <td>sum()</td>
+</tr>
+<tr>
+    <td>bytearray()</td>
+    <td>filter()</td>
+    <td>issubclass()</td>
+    <td>pow()</td>
+    <td>super()</td>
+</tr>
+<tr>
+    <td>bytes()</td>
+    <td>float()</td>
+    <td>iter()</td>
+    <td>print()</td>
+    <td>tuple()</td>
+</tr>
+<tr>
+    <td><a href="2020/05/20200515_builtin_5/callable_test.py">callable()</a></td>
+    <td>format()</td>
+    <td>len()</td>
+    <td>property()</td>
+    <td>type()</td>
+</tr>
+<tr>
+    <td><a href="2020/05/20200516_builtin_6/chr_test.py">chr()</a></td>
+    <td>frozenset()</td>
+    <td>list()</td>
+    <td>range()</td>
+    <td>vars()</td>
+</tr>
+<tr>
+    <td>classmethod()</td>
+    <td>getattr()</td>
+    <td>locals()</td>
+    <td>repr()</td>
+    <td>zip()</td>
+</tr>
+<tr>
+    <td>compile()</td>
+    <td>globals()</td>
+    <td>map()</td>
+    <td>reversed()</td>
+    <td>__import__()</td>
+</tr>
+<tr>
+    <td>complex()</td>
+    <td>hasattr()</td>
+    <td>max()</td>
+    <td>round()</td>
+    <td></td>
+</tr>
+</table>
 
 ## [Text Processing Services](https://docs.python.org/3/library/text.html)
 
