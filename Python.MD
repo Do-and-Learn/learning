@@ -33,7 +33,7 @@
 </tr>
 <tr>
     <td><a href="2020/05/20200514_builtin_4/bin_test.py">bin()</a></td>
-    <td>enumerate()</td>
+    <td><a href="2020/05/20200518_python_builtin_8/enumerate_test.py">enumerate()</a></td>
     <td>input()</td>
     <td>oct()</td>
     <td>staticmethod()</td>
@@ -46,21 +46,21 @@
     <td>str()</td>
 </tr>
 <tr>
-    <td>breakpoint()</td>
+    <td><b>breakpoint()</b></td>
     <td>exec()</td>
     <td>isinstance()</td>
     <td>ord()</td>
     <td>sum()</td>
 </tr>
 <tr>
-    <td>bytearray()</td>
+    <td><b>bytearray()</b></td>
     <td>filter()</td>
     <td>issubclass()</td>
     <td>pow()</td>
     <td>super()</td>
 </tr>
 <tr>
-    <td>bytes()</td>
+    <td><b>bytes()</b></td>
     <td>float()</td>
     <td>iter()</td>
     <td>print()</td>
@@ -81,7 +81,7 @@
     <td>vars()</td>
 </tr>
 <tr>
-    <td>classmethod()</td>
+    <td><a href="2020/05/20200518_python_builtin_8/classmethod_test.py">classmethod()</a></td>
     <td>getattr()</td>
     <td>locals()</td>
     <td>repr()</td>
