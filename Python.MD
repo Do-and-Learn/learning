@@ -88,14 +88,14 @@
     <td>zip()</td>
 </tr>
 <tr>
-    <td>compile()</td>
+    <td><b>compile()</b></td>
     <td>globals()</td>
     <td>map()</td>
     <td>reversed()</td>
     <td>__import__()</td>
 </tr>
 <tr>
-    <td>complex()</td>
+    <td><a href="2020/05/20200520_complex/complex_test.py">complex()</a></td>
     <td>hasattr()</td>
     <td>max()</td>
     <td>round()</td>
