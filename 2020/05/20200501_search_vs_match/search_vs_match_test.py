@@ -33,6 +33,13 @@ class SearchVsMatchTest(unittest.TestCase):
             self.assertIsNotNone(search)
             self.assertEqual((4, 5), search.span())
 
+    def test_5(self):
+        match = re.match("abc", "abcdef")
+        self.assertIsNotNone(match)
+
+        match = re.match("^abc$", "abcdef")
+        self.assertIsNone(match)
+
 
 if __name__ == '__main__':
     unittest.main()

@@ -5,7 +5,7 @@
 <table>
 <tr>
     <td><a href="2020/05/20200512_builtin_2/abs_test.py">abs()</a></td>
-    <td>delattr()</td>
+    <td><a href="2020/05/20200521_python_builtin_10/delattr_test.py">delattr()</a></td>
     <td>hash()</td>
     <td>memoryview()</td>
     <td>set()</td>
@@ -15,7 +15,7 @@
     <td>dict()</td>
     <td>help()</td>
     <td>min()</td>
-    <td>setattr()</td>
+    <td><a href="2020/05/20200521_python_builtin_10/setattr_test.py">setattr()</a></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200513_builtin_3/any_test.py">any()</a></td>
@@ -82,7 +82,7 @@
 </tr>
 <tr>
     <td><a href="2020/05/20200518_python_builtin_8/classmethod_test.py">classmethod()</a></td>
-    <td>getattr()</td>
+    <td><a href="2020/05/20200521_python_builtin_10/getattr_test.py">getattr()</a></td>
     <td>locals()</td>
     <td>repr()</td>
     <td>zip()</td>
@@ -96,7 +96,7 @@
 </tr>
 <tr>
     <td><a href="2020/05/20200520_complex/complex_test.py">complex()</a></td>
-    <td>hasattr()</td>
+    <td><a href="2020/05/20200521_python_builtin_10/hasattr_test.py">hasattr()</a></td>
     <td>max()</td>
     <td>round()</td>
     <td></td>
