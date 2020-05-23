@@ -1,8 +1,8 @@
 # The Python Standard Library
 
-## [Built-in Functions](https://docs.python.org/3/library/functions.html)
+- [Built-in Functions](https://docs.python.org/3/library/functions.html)
 
-<table>
+<table style="margin-left:50px">
 <tr>
     <td><a href="2020/05/20200512_builtin_2/abs_test.py">abs()</a></td>
     <td><a href="2020/05/20200521_python_builtin_10/delattr_test.py">delattr()</a></td>
@@ -19,7 +19,7 @@
 </tr>
 <tr>
     <td><a href="2020/05/20200513_builtin_3/any_test.py">any()</a></td>
-    <td><a href="2020/05/20200523_python_builtin_11/dir_test.py">dir()</a></td>
+    <td><a href="2020/05/20200522_python_builtin_11/dir_test.py">dir()</a></td>
     <td>hex()</td>
     <td>next()</td>
     <td>slice()</td>
@@ -103,53 +103,65 @@
 </tr>
 </table>
 
-## [Text Processing Services](https://docs.python.org/3/library/text.html)
+- [Text Processing Services](https://docs.python.org/3/library/text.html)
+  - string - Common string operations
+    - :construction: String constants
+    - :construction: Custom String Formatting
+    - Format String Syntax
+    - :construction: Format Specification Mini-Language
+    - :construction: Format examples
+    - :construction: Template strings
+    - :construction: Helper functions
 
-### string - Common string operations
+  - [re](https://docs.python.org/3/library/re.html) - Regular expression operations
+    - :construction: Regular Expression Syntax
+    - :construction: Module Contents
+    - :construction: Regular Expression Objects
+    - :construction: Match Objects
+    - Regular Expression Examples
+    - [Checking for a Pair](2020/04/20200429_checking_for_a_pair/checking_for_a_pair_test.py)
+    - [Simulating scanf()](2020/04/20200430_simulating_scanf/simulating_scanf_test.py)
+    - [search() vs. match()](2020/05/20200501_search_vs_match/search_vs_match_test.py)
+    - [Making a Phonebook](2020/05/20200502_making_a_phonebook/making_a_phonebook_test.py)
+    - [Text Munging](2020/05/20200503_text_munging/text_munging_test.py)
+    - [Finding all Adverbs](2020/05/20200504_finding_all_adverbs/finding_all_adverbs_test.py)
+    - [Finding all Adverbs and their Positions](2020/05/20200506_finding_all_adverbs_and_their_positions/example_test.py)
+    - [Raw String Notation](2020/05/20200507_raw_string_notation/example_test.py)
+    - [Writing a Tokenizer](2020/05/20200508_writing_a_tokenizer/example_test.py)
 
-- :construction: String constants
-- :construction: Custom String Formatting
-- Format String Syntax
-  - :construction: Format Specification Mini-Language
-  - :construction: Format examples
-- :construction: Template strings
-- :construction: Helper functions
+  - difflib - Helpers for computing deltas
+  - [textwrap](https://docs.python.org/3/library/textwrap.html) - Text wrapping and filling
+    - :construction: class TextWrapper
+    - [wrap](2020/04/20200427_wrap/wrap_test.py)
+    - [fill](2020/04/20200428_textwrap_2/fill_test.py)
+    - [shorten](2020/04/20200428_textwrap_2/shorten_test.py)
+    - [dedent](2020/04/20200428_textwrap_2/dedent_test.py)
+    - [indent](2020/04/20200428_textwrap_2/indent_test.py)
 
-### [re](https://docs.python.org/3/library/re.html) - Regular expression operations
+  - unicodedata - Unicode Database
 
-- :construction: Regular Expression Syntax
-- :construction: Module Contents
-- :construction: Regular Expression Objects
-- :construction: Match Objects
-- Regular Expression Examples
-  - [Checking for a Pair](2020/04/20200429_checking_for_a_pair/checking_for_a_pair_test.py)
-  - [Simulating scanf()](2020/04/20200430_simulating_scanf/simulating_scanf_test.py)
-  - [search() vs. match()](2020/05/20200501_search_vs_match/search_vs_match_test.py)
-  - [Making a Phonebook](2020/05/20200502_making_a_phonebook/making_a_phonebook_test.py)
-  - [Text Munging](2020/05/20200503_text_munging/text_munging_test.py)
-  - [Finding all Adverbs](2020/05/20200504_finding_all_adverbs/finding_all_adverbs_test.py)
-  - [Finding all Adverbs and their Positions](2020/05/20200506_finding_all_adverbs_and_their_positions/example_test.py)
-  - [Raw String Notation](2020/05/20200507_raw_string_notation/example_test.py)
-  - [Writing a Tokenizer](2020/05/20200508_writing_a_tokenizer/example_test.py)
+  - stringprep - Internet String Preparation
 
-### difflib - Helpers for computing deltas
+  - readline - GNU readline interface
 
-### [textwrap](https://docs.python.org/3/library/textwrap.html) - Text wrapping and filling
+  - rlcompleter - Completion function for GNU readline
 
-- :construction: class TextWrapper
-- [wrap](2020/04/20200427_wrap/wrap_test.py)
-- [fill](2020/04/20200428_textwrap_2/fill_test.py)
-- [shorten](2020/04/20200428_textwrap_2/shorten_test.py)
-- [dedent](2020/04/20200428_textwrap_2/dedent_test.py)
-- [indent](2020/04/20200428_textwrap_2/indent_test.py)
-
-### unicodedata - Unicode Database
-
-### stringprep - Internet String Preparation
-
-### readline - GNU readline interface
-
-### rlcompleter - Completion function for GNU readline
+- [Concurrent Execution](https://docs.python.org/3/library/concurrency.html)
+  - :construction: threading - Thread-based parallelism
+  - :construction: multiprocessing - Process-based parallelism
+  - :construction: multiprocessing.shared_memory - Provides shared memory for direct access across processes
+  - :construction: The concurrent package
+  - :construction: concurrent.futures - Launching parallel tasks
+  - :construction: subprocess - Subprocess management
+  - :construction: sched - Event scheduler
+  - queue - A synchronized queue class
+    - class [Queue](2020/05/20200523_python_queue/queue_test.py)
+    - class [LifoQueue](2020/05/20200523_python_queue/lifo_queue_test.py)
+    - class [PriorityQueue](2020/05/20200523_python_queue/priority_queue_test.py)
+    - class [SimpleQueue](2020/05/20200523_python_queue/simple_queue_test.py)
+  - :construction: _thread - Low-level threading API
+  - :construction: _dummy_thread - Drop-in replacement for the _thread module
+  - :construction: dummy_threading - Drop-in replacement for the threading module
 
 # Python mock
 
