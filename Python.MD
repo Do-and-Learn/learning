@@ -40,14 +40,14 @@
 </tr>
 <tr>
     <td><a href="2020/05/20200514_builtin_4/bool_test.py">bool()</a></td>
-    <td>eval()</td>
+    <td><a href="2020/05/20200525_python_builtin_12/eval_test.py">eval()</a></td>
     <td>int()</td>
     <td>open()</td>
     <td>str()</td>
 </tr>
 <tr>
     <td><b>breakpoint()</b></td>
-    <td>exec()</td>
+    <td><a href="2020/05/20200525_python_builtin_12/exec_test.py">exec()</a></td>
     <td>isinstance()</td>
     <td>ord()</td>
     <td>sum()</td>
