@@ -61,7 +61,7 @@
 </tr>
 <tr>
     <td><b>bytes()</b></td>
-    <td>float()</td>
+    <td><a href="2020/05/20200527_python_builtin_14/float_test.py">float()</a></td>
     <td>iter()</td>
     <td>print()</td>
     <td>tuple()</td>
