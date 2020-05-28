@@ -68,14 +68,14 @@
 </tr>
 <tr>
     <td><a href="2020/05/20200515_builtin_5/callable_test.py">callable()</a></td>
-    <td>format()</td>
+    <td><b>format()</b></td>
     <td>len()</td>
     <td>property()</td>
     <td>type()</td>
 </tr>
 <tr>
     <td><a href="2020/05/20200516_builtin_6/chr_test.py">chr()</a></td>
-    <td>frozenset()</td>
+    <td><b>frozenset()</b></td>
     <td>list()</td>
     <td>range()</td>
     <td>vars()</td>
@@ -83,13 +83,13 @@
 <tr>
     <td><a href="2020/05/20200518_python_builtin_8/classmethod_test.py">classmethod()</a></td>
     <td><a href="2020/05/20200521_python_builtin_10/getattr_test.py">getattr()</a></td>
-    <td>locals()</td>
+    <td><a href="2020/05/20200528_python_builtin_15/locals_test.py">locals()</a></td>
     <td>repr()</td>
     <td>zip()</td>
 </tr>
 <tr>
     <td><b>compile()</b></td>
-    <td>globals()</td>
+    <td><a href="2020/05/20200528_python_builtin_15/globals_test.py">globals()</a></td>
     <td>map()</td>
     <td>reversed()</td>
     <td>__import__()</td>
