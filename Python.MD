@@ -6,7 +6,7 @@
 <tr>
     <td><a href="2020/05/20200512_builtin_2/abs_test.py">abs()</a></td>
     <td><a href="2020/05/20200521_python_builtin_10/delattr_test.py">delattr()</a></td>
-    <td>hash()</td>
+    <td><a href="2020/05/20200529_python_builtin_16/hash_test.py">hash()</a></td>
     <td>memoryview()</td>
     <td>set()</td>
 </tr>
