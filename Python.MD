@@ -13,14 +13,14 @@
 <tr>
     <td><a href="2020/05/20200511_builtin_1/all_test.py">all()</a></td>
     <td><b>dict()</b></td>
-    <td>help()</td>
+    <td><b>help()</b></td>
     <td>min()</td>
     <td><a href="2020/05/20200521_python_builtin_10/setattr_test.py">setattr()</a></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200513_builtin_3/any_test.py">any()</a></td>
     <td><a href="2020/05/20200522_python_builtin_11/dir_test.py">dir()</a></td>
-    <td>hex()</td>
+    <td><a href="2020/05/20200530_python_builtin_17/hex_test.py">hex()</a></td>
     <td>next()</td>
     <td>slice()</td>
 </tr>
