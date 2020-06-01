@@ -34,7 +34,7 @@
 <tr>
     <td><a href="2020/05/20200514_builtin_4/bin_test.py">bin()</a></td>
     <td><a href="2020/05/20200518_python_builtin_8/enumerate_test.py">enumerate()</a></td>
-    <td>input()</td>
+    <td><a href="2020/06/20200601_python_builtin_19/input_test.py">input()</a></td>
     <td>oct()</td>
     <td>staticmethod()</td>
 </tr>
