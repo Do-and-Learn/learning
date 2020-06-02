@@ -41,7 +41,7 @@
 <tr>
     <td><a href="2020/05/20200514_builtin_4/bool_test.py">bool()</a></td>
     <td><a href="2020/05/20200525_python_builtin_12/eval_test.py">eval()</a></td>
-    <td>int()</td>
+    <td><a href="2020/06/20200602_python_builtin_20/int_test.py">int()</a></td>
     <td>open()</td>
     <td>str()</td>
 </tr>
