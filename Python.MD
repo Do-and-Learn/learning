@@ -48,7 +48,7 @@
 <tr>
     <td><b>breakpoint()</b></td>
     <td><a href="2020/05/20200525_python_builtin_12/exec_test.py">exec()</a></td>
-    <td>isinstance()</td>
+    <td><a href="2020/06/20200603_python_builtin_21/isinstance_test.py">isinstance()</a></td>
     <td>ord()</td>
     <td>sum()</td>
 </tr>
