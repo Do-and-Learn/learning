@@ -55,7 +55,7 @@
 <tr>
     <td><b>bytearray()</b></td>
     <td><a href="2020/05/20200526_python_builtin_13/filter_test.py">filter()</a></td>
-    <td>issubclass()</td>
+    <td><a href="2020/06/20200605_python_builtin_23/issubclass_test.py">issubclass()</a></td>
     <td>pow()</td>
     <td>super()</td>
 </tr>
