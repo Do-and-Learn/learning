@@ -69,14 +69,14 @@
 <tr>
     <td><a href="2020/05/20200515_builtin_5/callable_test.py">callable()</a></td>
     <td><b>format()</b></td>
-    <td>len()</td>
+    <td><a href="2020/06/20200604_python_builtin_22/len_test.py">len()</a></td>
     <td>property()</td>
     <td>type()</td>
 </tr>
 <tr>
     <td><a href="2020/05/20200516_builtin_6/chr_test.py">chr()</a></td>
     <td><b>frozenset()</b></td>
-    <td>list()</td>
+    <td><b>list()</b></td>
     <td>range()</td>
     <td>vars()</td>
 </tr>
