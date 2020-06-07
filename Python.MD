@@ -28,7 +28,7 @@
     <td><a href="2020/05/20200514_builtin_4/ascii_test.py">ascii()</a></td>
     <td><a href="2020/05/20200517_builtin_7/divmod_test.py">divmod()</a></td>
     <td><a href="2020/05/20200531_python_builtin_18/id_test.py">id()</a></td>
-    <td>object()</td>
+    <td><a href="2020/06/20200607_python_builtin_25/object_test.py">object()</a></td>
     <td>sorted()</td>
 </tr>
 <tr>
