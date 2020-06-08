@@ -7,7 +7,7 @@
     <td><a href="2020/05/20200512_builtin_2/abs_test.py">abs()</a></td>
     <td><a href="2020/05/20200521_python_builtin_10/delattr_test.py">delattr()</a></td>
     <td><a href="2020/05/20200529_python_builtin_16/hash_test.py">hash()</a></td>
-    <td>memoryview()</td>
+    <td><b>memoryview()</b></td>
     <td>set()</td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@
     <td><a href="2020/05/20200514_builtin_4/bin_test.py">bin()</a></td>
     <td><a href="2020/05/20200518_python_builtin_8/enumerate_test.py">enumerate()</a></td>
     <td><a href="2020/06/20200601_python_builtin_19/input_test.py">input()</a></td>
-    <td>oct()</td>
+    <td><a href="2020/06/20200608_python_builtin_26/oct_test.py">oct()</a></td>
     <td>staticmethod()</td>
 </tr>
 <tr>
