@@ -42,14 +42,14 @@
     <td><a href="2020/05/20200514_builtin_4/bool_test.py">bool()</a></td>
     <td><a href="2020/05/20200525_python_builtin_12/eval_test.py">eval()</a></td>
     <td><a href="2020/06/20200602_python_builtin_20/int_test.py">int()</a></td>
-    <td>open()</td>
+    <td><b>open()</b></td>
     <td>str()</td>
 </tr>
 <tr>
     <td><b>breakpoint()</b></td>
     <td><a href="2020/05/20200525_python_builtin_12/exec_test.py">exec()</a></td>
     <td><a href="2020/06/20200603_python_builtin_21/isinstance_test.py">isinstance()</a></td>
-    <td>ord()</td>
+    <td><a href="2020/06/20200609_python_builtin_27/ord_test.py">ord()</a></td>
     <td>sum()</td>
 </tr>
 <tr>
