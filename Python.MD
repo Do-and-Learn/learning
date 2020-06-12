@@ -70,21 +70,21 @@
     <td><a href="2020/05/20200515_builtin_5/callable_test.py">callable()</a></td>
     <td><b>format()</b></td>
     <td><a href="2020/06/20200604_python_builtin_22/len_test.py">len()</a></td>
-    <td>property()</td>
+    <td><b>property()</b></td>
     <td>type()</td>
 </tr>
 <tr>
     <td><a href="2020/05/20200516_builtin_6/chr_test.py">chr()</a></td>
     <td><b>frozenset()</b></td>
     <td><b>list()</b></td>
-    <td>range()</td>
+    <td><b>range()</b></td>
     <td>vars()</td>
 </tr>
 <tr>
     <td><a href="2020/05/20200518_python_builtin_8/classmethod_test.py">classmethod()</a></td>
     <td><a href="2020/05/20200521_python_builtin_10/getattr_test.py">getattr()</a></td>
     <td><a href="2020/05/20200528_python_builtin_15/locals_test.py">locals()</a></td>
-    <td>repr()</td>
+    <td><a href="2020/06/20200612_python_builtin_30/repr_test.py">repr()</a></td>
     <td>zip()</td>
 </tr>
 <tr>
