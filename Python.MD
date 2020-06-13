@@ -91,7 +91,7 @@
     <td><b>compile()</b></td>
     <td><a href="2020/05/20200528_python_builtin_15/globals_test.py">globals()</a></td>
     <td><a href="2020/06/20200606_python_builtin_24/map_test.py">map()</a></td>
-    <td>reversed()</td>
+    <td><a href="2020/06/20200613_python_builtin_31/reversed_test.py">reversed()</a></td>
     <td>__import__()</td>
 </tr>
 <tr>
