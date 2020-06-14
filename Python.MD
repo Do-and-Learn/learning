@@ -98,7 +98,7 @@
     <td><a href="2020/05/20200520_complex/complex_test.py">complex()</a></td>
     <td><a href="2020/05/20200521_python_builtin_10/hasattr_test.py">hasattr()</a></td>
     <td>max()</td>
-    <td>round()</td>
+    <td><a href="2020/06/20200613_python_builtin_32/round_test.py">round()</a></td>
     <td></td>
 </tr>
 </table>
