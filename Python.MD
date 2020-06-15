@@ -8,7 +8,7 @@
     <td><a href="2020/05/20200521_python_builtin_10/delattr_test.py">delattr()</a></td>
     <td><a href="2020/05/20200529_python_builtin_16/hash_test.py">hash()</a></td>
     <td><b>memoryview()</b></td>
-    <td>set()</td>
+    <td><b>set()</b></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200511_builtin_1/all_test.py">all()</a></td>
@@ -22,7 +22,7 @@
     <td><a href="2020/05/20200522_python_builtin_11/dir_test.py">dir()</a></td>
     <td><a href="2020/05/20200530_python_builtin_17/hex_test.py">hex()</a></td>
     <td>next()</td>
-    <td>slice()</td>
+    <td><a href="2020/06/20200615_python_builtin_33/slice_test.py">slice()</a></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200514_builtin_4/ascii_test.py">ascii()</a></td>
@@ -98,7 +98,7 @@
     <td><a href="2020/05/20200520_complex/complex_test.py">complex()</a></td>
     <td><a href="2020/05/20200521_python_builtin_10/hasattr_test.py">hasattr()</a></td>
     <td>max()</td>
-    <td><a href="2020/06/20200613_python_builtin_32/round_test.py">round()</a></td>
+    <td><a href="2020/06/20200614_python_builtin_32/round_test.py">round()</a></td>
     <td></td>
 </tr>
 </table>
