@@ -29,28 +29,28 @@
     <td><a href="2020/05/20200517_builtin_7/divmod_test.py">divmod()</a></td>
     <td><a href="2020/05/20200531_python_builtin_18/id_test.py">id()</a></td>
     <td><a href="2020/06/20200607_python_builtin_25/object_test.py">object()</a></td>
-    <td>sorted()</td>
+    <td><b>sorted()</b></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200514_builtin_4/bin_test.py">bin()</a></td>
     <td><a href="2020/05/20200518_python_builtin_8/enumerate_test.py">enumerate()</a></td>
     <td><a href="2020/06/20200601_python_builtin_19/input_test.py">input()</a></td>
     <td><a href="2020/06/20200608_python_builtin_26/oct_test.py">oct()</a></td>
-    <td>staticmethod()</td>
+    <td><b>staticmethod()</b></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200514_builtin_4/bool_test.py">bool()</a></td>
     <td><a href="2020/05/20200525_python_builtin_12/eval_test.py">eval()</a></td>
     <td><a href="2020/06/20200602_python_builtin_20/int_test.py">int()</a></td>
     <td><b>open()</b></td>
-    <td>str()</td>
+    <td><b>str()</b></td>
 </tr>
 <tr>
     <td><b>breakpoint()</b></td>
     <td><a href="2020/05/20200525_python_builtin_12/exec_test.py">exec()</a></td>
     <td><a href="2020/06/20200603_python_builtin_21/isinstance_test.py">isinstance()</a></td>
     <td><a href="2020/06/20200609_python_builtin_27/ord_test.py">ord()</a></td>
-    <td>sum()</td>
+    <td><a href="2020/06/20200616_python_builtin_34/sum_test.py">sum()</a></td>
 </tr>
 <tr>
     <td><b>bytearray()</b></td>
