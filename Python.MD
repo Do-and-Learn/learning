@@ -57,21 +57,21 @@
     <td><a href="2020/05/20200526_python_builtin_13/filter_test.py">filter()</a></td>
     <td><a href="2020/06/20200605_python_builtin_23/issubclass_test.py">issubclass()</a></td>
     <td><a href="2020/06/20200610_python_builtin_28/pow_test.py">pow()</a></td>
-    <td>super()</td>
+    <td><b>super()</b></td>
 </tr>
 <tr>
     <td><b>bytes()</b></td>
     <td><a href="2020/05/20200527_python_builtin_14/float_test.py">float()</a></td>
     <td>iter()</td>
     <td><a href="2020/06/20200611_python_builtin_29/print_test.py">print()</a></td>
-    <td>tuple()</td>
+    <td><b>tuple()</b></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200515_builtin_5/callable_test.py">callable()</a></td>
     <td><b>format()</b></td>
     <td><a href="2020/06/20200604_python_builtin_22/len_test.py">len()</a></td>
     <td><b>property()</b></td>
-    <td>type()</td>
+    <td><a href="2020/06/20200617_python_builtin_35/type_test.py">type()</a></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200516_builtin_6/chr_test.py">chr()</a></td>
