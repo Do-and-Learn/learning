@@ -78,7 +78,7 @@
     <td><b>frozenset()</b></td>
     <td><b>list()</b></td>
     <td><b>range()</b></td>
-    <td>vars()</td>
+    <td><a href="2020/06/20200618_python_builtin_36/vars_test.py">vars()</a></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200518_python_builtin_8/classmethod_test.py">classmethod()</a></td>
