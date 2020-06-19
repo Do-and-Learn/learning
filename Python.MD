@@ -14,7 +14,7 @@
     <td><a href="2020/05/20200511_builtin_1/all_test.py">all()</a></td>
     <td><b>dict()</b></td>
     <td><b>help()</b></td>
-    <td>min()</td>
+    <td><a href="2020/06/20200619_python_builtin_37/min_test.py">min()</a></td>
     <td><a href="2020/05/20200521_python_builtin_10/setattr_test.py">setattr()</a></td>
 </tr>
 <tr>
@@ -92,12 +92,12 @@
     <td><a href="2020/05/20200528_python_builtin_15/globals_test.py">globals()</a></td>
     <td><a href="2020/06/20200606_python_builtin_24/map_test.py">map()</a></td>
     <td><a href="2020/06/20200613_python_builtin_31/reversed_test.py">reversed()</a></td>
-    <td>__import__()</td>
+    <td><b>__import__()</b></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200520_complex/complex_test.py">complex()</a></td>
     <td><a href="2020/05/20200521_python_builtin_10/hasattr_test.py">hasattr()</a></td>
-    <td>max()</td>
+    <td><a href="2020/06/20200619_python_builtin_37/max_test.py">max()</a></td>
     <td><a href="2020/06/20200614_python_builtin_32/round_test.py">round()</a></td>
     <td></td>
 </tr>
