@@ -21,7 +21,7 @@
     <td><a href="2020/05/20200513_builtin_3/any_test.py">any()</a></td>
     <td><a href="2020/05/20200522_python_builtin_11/dir_test.py">dir()</a></td>
     <td><a href="2020/05/20200530_python_builtin_17/hex_test.py">hex()</a></td>
-    <td>next()</td>
+    <td><a href="2020/06/20200620_python_builtin_38/iter_next_test.py">next()</a></td>
     <td><a href="2020/06/20200615_python_builtin_33/slice_test.py">slice()</a></td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@
 <tr>
     <td><b>bytes()</b></td>
     <td><a href="2020/05/20200527_python_builtin_14/float_test.py">float()</a></td>
-    <td>iter()</td>
+    <td><a href="2020/06/20200620_python_builtin_38/iter_next_test.py">iter()</a></td>
     <td><a href="2020/06/20200611_python_builtin_29/print_test.py">print()</a></td>
     <td><b>tuple()</b></td>
 </tr>
