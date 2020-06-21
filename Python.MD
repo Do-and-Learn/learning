@@ -85,7 +85,7 @@
     <td><a href="2020/05/20200521_python_builtin_10/getattr_test.py">getattr()</a></td>
     <td><a href="2020/05/20200528_python_builtin_15/locals_test.py">locals()</a></td>
     <td><a href="2020/06/20200612_python_builtin_30/repr_test.py">repr()</a></td>
-    <td>zip()</td>
+    <td><a href="2020/06/20200621_python_builtin_39/zip_test.py">zip()</a></td>
 </tr>
 <tr>
     <td><b>compile()</b></td>
