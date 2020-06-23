@@ -12,7 +12,7 @@
 </tr>
 <tr>
     <td><a href="2020/05/20200511_builtin_1/all_test.py">all()</a></td>
-    <td><b>dict()</b> <sup>[<a href="2020/06/20200622_python_dict_1/dict_test.py">1</a>|2|3]</sup></td>
+    <td><b>dict()</b> <sup>[<a href="2020/06/20200622_python_dict_1/dict_test.py">1</a>|<a href="2020/06/20200623_python_dict_2/dict_test.py">2</a>|3]</sup></td>
     <td><b>help()</b></td>
     <td><a href="2020/06/20200619_python_builtin_37/min_test.py">min()</a></td>
     <td><a href="2020/05/20200521_python_builtin_10/setattr_test.py">setattr()</a></td>
