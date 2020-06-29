@@ -64,7 +64,7 @@
     <td><a href="2020/05/20200527_python_builtin_14/float_test.py">float()</a></td>
     <td><a href="2020/06/20200620_python_builtin_38/iter_next_test.py">iter()</a></td>
     <td><a href="2020/06/20200611_python_builtin_29/print_test.py">print()</a></td>
-    <td><b>tuple()</b></td>
+    <td><a href="2020/06/20200629_python_tuple/tuple_test.py">tuple()</a></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200515_builtin_5/callable_test.py">callable()</a></td>
