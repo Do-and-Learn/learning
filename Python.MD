@@ -77,7 +77,7 @@
     <td><a href="2020/05/20200516_builtin_6/chr_test.py">chr()</a></td>
     <td><b>frozenset()</b></td>
     <td><b>list()<sup>[<a href="2020/06/20200627_python_list_1/list_test.py">1</a>|<a href="2020/06/20200628_python_list_2/list_test.py">2</a>]</sup></b></td>
-    <td><b>range()</b></td>
+    <td><a href="2020/06/20200630_python_range/range_test.py">range()</a></td>
     <td><a href="2020/06/20200618_python_builtin_36/vars_test.py">vars()</a></td>
 </tr>
 <tr>
