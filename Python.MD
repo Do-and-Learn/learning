@@ -103,6 +103,10 @@
 </tr>
 </table>
 
+- Built-in Types
+  - Sequence Types — list, tuple, range
+    - [Common Sequence Operations](2020/07/20200701_python_common_sequence_operations/common_sequence_operation_test.py)
+
 - [Text Processing Services](https://docs.python.org/3/library/text.html)
   - string - Common string operations
     - :construction: String constants
