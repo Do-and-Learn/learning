@@ -8,7 +8,7 @@
     <td><a href="2020/05/20200521_python_builtin_10/delattr_test.py">delattr()</a></td>
     <td><a href="2020/05/20200529_python_builtin_16/hash_test.py">hash()</a></td>
     <td><b>memoryview()</b></td>
-    <td><b>set() <sup>[<a href="2020/07/20200703_python_set_1/set_test.py">1</a>|<a href="2020/07/20200704_python_set_2/set_test.py">2</a>|<a href="2020/07/20200705_python_set_3/set_test.py">3</a>|<a href="2020/07/20200706_pythjon_set_4/set_test.py">4</a>|5]</sup></b></td>
+    <td><b>set() <sup>[<a href="2020/07/20200703_python_set_1/set_test.py">1</a>|<a href="2020/07/20200704_python_set_2/set_test.py">2</a>|<a href="2020/07/20200705_python_set_3/set_test.py">3</a>|<a href="2020/07/20200706_python_set_4/set_test.py">4</a>|<a href="2020/07/20200707_python_set_5/set_test.py">5</a>]</sup></b></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200511_builtin_1/all_test.py">all()</a></td>
