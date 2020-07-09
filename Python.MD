@@ -29,7 +29,7 @@
     <td><a href="2020/05/20200517_builtin_7/divmod_test.py">divmod()</a></td>
     <td><a href="2020/05/20200531_python_builtin_18/id_test.py">id()</a></td>
     <td><a href="2020/06/20200607_python_builtin_25/object_test.py">object()</a></td>
-    <td><b>sorted()</b></td>
+    <td><b>sorted()<sup>[<a href="2020/07/20200709_python_sorted/sorted_test.py">1</a>|2]</sup></b></td>
 </tr>
 <tr>
     <td><a href="2020/05/20200514_builtin_4/bin_test.py">bin()</a></td>
