@@ -1,3 +1,4 @@
 - 2020/07/11 [TensorFlow 2 quickstart for beginners](2020/07/20200711_python_tensorflow/learning.py) (partial)
   - Ref: [TensorFlow 2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)
 - 2020/07/12 [CNN](2020/07/20200712_cnn/cnn.py) 1
+- 2020/07/13 [Sequential, Dense, kernel_initializer](2020/07/20200713_tensorflow_Sequential/main.py)
