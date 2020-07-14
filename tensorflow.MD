@@ -2,3 +2,4 @@
   - Ref: [TensorFlow 2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)
 - 2020/07/12 [CNN](2020/07/20200712_cnn/cnn.py) 1
 - 2020/07/13 [Sequential, Dense, kernel_initializer](2020/07/20200713_tensorflow_Sequential/main.py)
+- 2020/07/14 [MNIST learning 1](2020/07/20200714_tensorflow_learning_4/learning.py)
