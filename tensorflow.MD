@@ -3,3 +3,12 @@
 - 2020/07/12 [CNN](2020/07/20200712_cnn/cnn.py) 1
 - 2020/07/13 [Sequential, Dense, kernel_initializer](2020/07/20200713_tensorflow_Sequential/main.py)
 - 2020/07/14 [MNIST learning 1](2020/07/20200714_tensorflow_learning_4/learning.py)
+  - Epoch: 200, Layers: 1
+  - accuracy on training: 0.9229
+  - accuracy on validation: 0.9238
+  - accuracy on test: 0.9218
+- 2020/07/15 [MNIST improvement](2020/07/20200715_tensorflow_learning_5/learning.py)
+  - Epoch: 50, Layers: 3
+  - accuracy on training: 0.9707
+  - accuracy on validation: 0.9648
+  - accuracy on test: 0.9622
