@@ -8,7 +8,15 @@
   - accuracy on validation: 0.9238
   - accuracy on test: 0.9218
 - 2020/07/15 [MNIST improvement](2020/07/20200715_tensorflow_learning_5/learning.py)
-  - Epoch: 50, Layers: 3
-  - accuracy on training: 0.9707
-  - accuracy on validation: 0.9648
-  - accuracy on test: 0.9622
+  - Epoch: 50, Layers: 3, accuracy on training: 0.9707, accuracy on validation: 0.9648, accuracy on test: 0.9622
+  - Epoch: 50, Layers: 3, accuracy on training: 0.9722, accuracy on validation: 0.9652, accuracy on test: 0.9654 (seed 0)
+  - Epoch: 200, Layers: 3, accuracy on training: 0.9979, accuracy on validation: 0.9742, accuracy on test: 0.9758 (seed 0)
+- 2020/07/16
+  - [MNIST improvement](2020/07/20200716_tensorflow_learning_6/learning.py)
+    - Epoch: 50, Layers: 5, accuracy on training: 0.9454, accuracy on validation: 0.9640, accuracy on test: 0.9621 (seed 0)
+    - Epoch: 200, Layers: 5, accuracy on training: 0.9763, accuracy on validation: 0.9768, accuracy on test: 0.9763 (seed 0)
+  - [improvement using RMSProp](2020/07/20200716_tensorflow_learning_6/learning_rmsprop.py)
+    - Epoch: 10, Layers: 5, accuracy on training: 0.9723, accuracy on validation: 0.9755, accuracy on test: 0.9767 (seed 0)
+    - Epoch: 250, Layers: 5, accuracy on training: 0.9895, accuracy on validation: 0.9780, accuracy on test: 0.9773 (seed 0)
+  - [improvement using Adam](2020/07/20200716_tensorflow_learning_6/learning_adam.py)
+    - Epoch: 50, Layers: 5, accuracy on training: 0.9896, accuracy on validation: 0.9793, accuracy on test: 0.9784 (seed 0)
