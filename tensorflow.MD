@@ -20,3 +20,5 @@
     - Epoch: 250, Layers: 5, accuracy on training: 0.9895, accuracy on validation: 0.9780, accuracy on test: 0.9773 (seed 0)
   - [improvement using Adam](2020/07/20200716_tensorflow_learning_6/learning_adam.py)
     - Epoch: 50, Layers: 5, accuracy on training: 0.9896, accuracy on validation: 0.9793, accuracy on test: 0.9784 (seed 0)
+- Regression
+  - 2020/07/19 [learning 1](2020/07/20200719_tensorflow/learning.py)
