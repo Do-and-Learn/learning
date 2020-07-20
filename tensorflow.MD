@@ -22,3 +22,4 @@
     - Epoch: 50, Layers: 5, accuracy on training: 0.9896, accuracy on validation: 0.9793, accuracy on test: 0.9784 (seed 0)
 - Regression
   - 2020/07/19 [learning 1](2020/07/20200719_tensorflow/learning.py)
+  - 2020/07/20 [learning 2](2020/07/20200720_tensorflow_regression_2/learning.py)
