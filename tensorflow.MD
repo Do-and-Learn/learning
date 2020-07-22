@@ -24,3 +24,4 @@
   - 2020/07/19 [learning 1](2020/07/20200719_tensorflow/learning.py)
   - 2020/07/20 [learning 2](2020/07/20200720_tensorflow_regression_2/learning.py)
   - 2020/07/21 [learning 3](2020/07/20200721_tensorflow_regression_3/learning.py)
+  - 2020/07/22 [learning 4](2020/07/20200722_tensorflow_regression_4/learning.py)
