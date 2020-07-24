@@ -26,3 +26,5 @@
   - 2020/07/21 [learning 3](2020/07/20200721_tensorflow_regression_3/learning.py)
   - 2020/07/22 [learning 4](2020/07/20200722_tensorflow_regression_4/learning.py)
   - 2020/07/23 [learning 5](2020/07/20200723_tensorflow_regression_5/learning.py)
+- Convolutional Neural Network
+  - 2020/07/24 [learning 1](2020/07/20200724_tensorflow_cnn_1/learning.py)
