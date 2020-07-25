@@ -13,12 +13,12 @@ def build(input_shape, classes):
     model.add(layers.MaxPooling2D(pool_size=(2, 2)))
     model.add(layers.Dropout(0.2))
 
-    model.add(layers.Convolution2D(64, (3, 3), activation='relu'))
+    model.add(layers.Convolution2D(32, (3, 3), activation='relu'))
     model.add(layers.BatchNormalization())
-    model.add(layers.Convolution2D(64, (3, 3), activation='relu'))
+    model.add(layers.Convolution2D(32, (3, 3), activation='relu'))
     model.add(layers.BatchNormalization())
     model.add(layers.MaxPooling2D(pool_size=(2, 2)))
-    model.add(layers.Dropout(0.2))
+    model.add(layers.Dropout(0.3))
 
     model.add(layers.Flatten())
     model.add(layers.Dense(512, activation='relu'))
