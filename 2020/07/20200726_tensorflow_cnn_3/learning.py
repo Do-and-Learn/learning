@@ -21,8 +21,6 @@ def build(input_shape, classes):
     model.add(layers.Dropout(0.3))
 
     model.add(layers.Flatten())
-    model.add(layers.Dense(512, activation='relu'))
-    model.add(layers.Dropout(0.5))
     model.add(layers.Dense(classes, activation='softmax'))
 
     return model
