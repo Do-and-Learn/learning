@@ -1,5 +1,5 @@
 import tensorflow as tf
-from tensorflow.keras import datasets, layers, models, optimizers
+from tensorflow.keras import datasets, layers, models
 
 
 # noinspection PyShadowingNames
@@ -19,6 +19,13 @@ def build(input_shape, classes):
     model.add(layers.BatchNormalization())
     model.add(layers.MaxPooling2D(pool_size=(2, 2)))
     model.add(layers.Dropout(0.3))
+
+    model.add(layers.Convolution2D(128, (3, 3), activation='relu', padding='same'))
+    model.add(layers.BatchNormalization())
+    model.add(layers.Convolution2D(128, (3, 3), activation='relu', padding='same'))
+    model.add(layers.BatchNormalization())
+    model.add(layers.MaxPooling2D(pool_size=(2, 2)))
+    model.add(layers.Dropout(0.4))
 
     model.add(layers.Flatten())
     model.add(layers.Dense(classes, activation='softmax'))
