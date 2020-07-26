@@ -40,7 +40,7 @@ if __name__ == '__main__':
     IMG_COLS = 32
 
     BATCH_SIZE = 64
-    EPOCHS = 20
+    EPOCHS = 50
     CLASSES = 10
     VERBOSE = 1
     VALIDATION_SPLIT = 0.2
