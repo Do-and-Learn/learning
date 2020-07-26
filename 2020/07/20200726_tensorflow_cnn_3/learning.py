@@ -1,3 +1,4 @@
+import numpy as np
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
 
@@ -38,7 +39,7 @@ if __name__ == '__main__':
     IMG_ROWS = 32
     IMG_COLS = 32
 
-    BATCH_SIZE = 128
+    BATCH_SIZE = 64
     EPOCHS = 20
     CLASSES = 10
     VERBOSE = 1
@@ -46,6 +47,10 @@ if __name__ == '__main__':
     OPTIM = tf.keras.optimizers.RMSprop()
 
     (train_data, train_labels), (test_data, test_labels) = datasets.cifar10.load_data()
+    mean = np.mean(train_data, axis=(0, 1, 2, 3))
+    std = np.std(train_data, axis=(0, 1, 2, 3))
+    train_data = (train_data - mean) / (std + 1e-7)
+    test_data = (test_data - mean) / (std + 1e-7)
 
     train_labels = tf.keras.utils.to_categorical(train_labels, CLASSES)
     test_labels = tf.keras.utils.to_categorical(test_labels, CLASSES)
