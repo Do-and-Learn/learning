@@ -6,6 +6,7 @@ if __name__ == '__main__':
     model_architecture = 'model.json'
     model_weights = 'model.h5'
     model = model_from_json(open(model_architecture).read())
+    model.load_weights(model_weights)
 
     img_names = ['cat.jpg', 'dog.jpg']
 
