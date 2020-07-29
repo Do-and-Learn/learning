@@ -32,3 +32,4 @@
   - 2020/07/26 [learning 3](2020/07/20200726_tensorflow_cnn_3/learning.py)
   - 2020/07/27 [learning 4](2020/07/20200727_tensorflow_cnn_4/learning.py)
   - 2020/07/28 [learning 5](2020/07/20200728_tensorflow_cnn_5/learning.py)
+  - 2020/07/29 [learning 6 (VGG16)](2020/07/20200729_tensorflow_cnn_6/learning.py)
