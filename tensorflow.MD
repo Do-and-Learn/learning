@@ -34,3 +34,5 @@
   - 2020/07/28 [learning 5](2020/07/20200728_tensorflow_cnn_5/learning.py)
   - 2020/07/29 [learning 6 (VGG16)](2020/07/20200729_tensorflow_cnn_6/learning.py)
   - 2020/07/30 [learning 7](2020/07/20200730_tensorflow_cnn_7/learning.py)
+-  tf.keras estimator model
+  - [2020/07/31](2020/07/20200731_tensorflow_estimator/learning.py)
