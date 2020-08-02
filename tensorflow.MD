@@ -38,3 +38,4 @@
   - [2020/07/31](2020/07/20200731_tensorflow_estimator/learning.py)
 - inception v3
   - [2020/08/01](2020/08/20200801_tensorflow_Inception_v3/learning.py)
+  - [2020/08/02](2020/08/20200802_tensorflow_Inception_v3_2/learning.py)
