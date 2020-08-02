@@ -1,4 +1,5 @@
 from tensorflow.keras import layers, models
+from tensorflow.keras.optimizers import SGD
 from tensorflow.keras.applications.inception_v3 import InceptionV3
 
 if __name__ == '__main__':
@@ -14,3 +15,13 @@ if __name__ == '__main__':
 
     model.compile(optimizer='rmsprop', loss='categorical_crossentropy')
 
+    # model.fit_generator(...)
+
+    for layer in model.layers[:172]:
+        layer.trainable = False
+    for layer in model.layers[172:]:
+        layer.trainable = True
+
+    model.compile(optimizer=SGD(lr=0.0001, momentum=0.9), loss='categorical_crossentropy')
+
+    # model.fit_generator(...)
