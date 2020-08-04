@@ -40,3 +40,4 @@
   - [2020/08/01](2020/08/20200801_tensorflow_Inception_v3/learning.py)
   - [2020/08/02](2020/08/20200802_tensorflow_Inception_v3_2/learning.py)
   - [2020/08/03](2020/08/20200803_tensorflow_Inception_v3_3/learning.py)
+  - [2020/08/04](2020/08/20200804_tensorflow_Inception_v3_4/learning.py)
