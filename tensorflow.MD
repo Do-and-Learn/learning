@@ -43,3 +43,5 @@
   - [2020/08/04](2020/08/20200804_tensorflow_Inception_v3_4/learning.py)
   - [2020/08/06](2020/08/20200806_tensorflow_Inception_v3_5/learning.py)
   - [2020/08/07](2020/08/20200807_tensorflow_Inception_v3_6/learning.py)
+- TensorFlow Hub
+  - [2020/08/08](2020/08/20200808_tensorflow_hub/main.py)
