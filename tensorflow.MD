@@ -47,3 +47,4 @@
   - [2020/08/08](2020/08/20200808_tensorflow_hub/main.py)
 - DeepDream Network
   - [2020/08/09](2020/08/20200809_deepdream_network_1/main.py)
+  - [2020/08/10](2020/08/20200810_deepdream_network_2/main.py)
