@@ -50,3 +50,4 @@
   - [2020/08/10](2020/08/20200810_deepdream_network_2/main.py)
 - Generative Adversarial Networks (GANs)
   - ![](2020/08/20200811_generative_adversarial_network_1/img.png)
+  - [2020/08/12](2020/08/20200812_generative_adversarial_network_2/main.py)
