@@ -52,3 +52,4 @@
   - ![](2020/08/20200811_generative_adversarial_network_1/img.png)
   - [2020/08/12](2020/08/20200812_generative_adversarial_network_2/main.py)
   - [2020/08/13](2020/08/20200813_generative_adversarial_network_3/main.py)
+  - [2020/08/14](2020/08/20200814_generative_adversarial_network_4/main.py)
