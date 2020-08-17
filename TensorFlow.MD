@@ -55,3 +55,5 @@
   - <del>[2020/08/14](2020/08/20200814_generative_adversarial_network_4/main.py)</del> (Not work)
   - <del>[2020/08/15](2020/08/20200815_generative_adversarial_network_5/main.py)</del> (Not work)
   - [2020/08/16](2020/08/20200816_generative_adversarial_network_6/main.py)
+- Deep convolutional GANs (DCGANs)
+  - [2020/08/17](2020/08/20200817_deep_convolutional_generative_adversarial_network_1/main.py)
