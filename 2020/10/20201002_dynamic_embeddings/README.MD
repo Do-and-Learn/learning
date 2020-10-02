@@ -1,0 +1,1 @@
+dynamic embeddings: 考慮句子的上下文。每個句子會有不同的意義。
